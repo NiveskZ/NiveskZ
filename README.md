@@ -1,8 +1,10 @@
 ### 👋 Hello, I’m Kevin
-I like to learn and do cool stuff.
+I am a former math bachelor that likes to learn and do cool stuff.
 
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning web application.
+- 🌱 I’m currently learning data science.
+- 🐍 Getting proficient in python.
+- 👀 Trying to get better at C.
+- :movie_camera: I like movies and :coffee:
 
 
 <!---
