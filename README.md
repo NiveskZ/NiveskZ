@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Kevin Richardson</h1>
+<h1 align="center"></h1>
 <p align="center"><i>Data Science · Python · SQL · Analytics · Practical systems</i></p>
 
 
