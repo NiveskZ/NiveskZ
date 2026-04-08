@@ -5,8 +5,16 @@
 <h1 align="center"></h1>
 <p align="center"><i>Data Science · Python · SQL · Analytics · Practical systems</i></p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinrsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://niveskz.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-I’m a data professional with a strong Mathematics background, focused mainly on Data Science and also interested in Data Analysis, Junior Data Engineering, Python applications, and practical backend development.
+Hello! I’m Kevin Richardson, a data professional with a strong Mathematics background, focused mainly on Data Science and also interested in Data Analysis, Junior Data Engineering, Python applications, and practical backend development.
 
 I like building projects that connect data, modeling, and real-world use cases. Especially with Python, SQL, machine learning, APIs, and automation.
 
@@ -53,9 +61,8 @@ Backend-focused Python project with FastAPI, async SQLAlchemy, PostgreSQL, Alemb
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/kevinrsm](https://www.linkedin.com/in/kevinrsm/)
-* **Email:** [krsm1507@gmail.com](mailto:krsm1507@gmail.com)
-* **Portfolio:** in progress
+- **Email:** `krsm1507@gmail.com`
+- **LinkedIn:** [linkedin.com/in/kevinrsm](https://www.linkedin.com/in/kevinrsm/)
 
 
 <!---
