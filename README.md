@@ -72,6 +72,18 @@ Backend-focused Python project with FastAPI, async SQLAlchemy, PostgreSQL, Alemb
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
 </p>
 
+### 🧪 Currently Exploring
+
+Learning and experimenting with LLM-based systems and agentic workflows:
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-8B5CF6?style=flat-square" alt="LLM Workflows" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
 ---
 
 ## Background
