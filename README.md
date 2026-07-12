@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Kevin Richardson</h1>
-<p align="center"><i>Data Science · Python · SQL · Analytics · Practical systems</i></p>
+<p align="center"><i>Data Science · AI Engineering · Python · SQL · Analytics</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinrsm/">
@@ -17,9 +17,9 @@
   </a>
 </p>
 
-I'm a data professional with a strong Mathematics background, focused mainly on Data Science and also interested in Data Analysis, Junior Data Engineering, Python applications, and practical backend development.
+I'm a data scientist with a strong Mathematics background. I currently work in People Analytics at WiseDB, a Brazilian cloud and data consultancy: machine learning pipelines, model explainability and AutoML in production on Oracle Cloud.
 
-I like building projects that connect data, modeling, and real-world use cases. Especially with Python, SQL, machine learning, APIs, and automation.
+I like building projects that connect data, modeling, and real-world use cases. Especially with Python, SQL, machine learning, APIs, and automation. I'm also expanding into AI Engineering: LLM-based systems, RAG and agentic workflows.
 
 ---
 
@@ -72,26 +72,19 @@ Backend-focused Python project with FastAPI, async SQLAlchemy, PostgreSQL, Alemb
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
 </p>
 
-### 🧪 Currently Exploring
+### ⚔️ Next Level: AI Engineering
 
-Learning and experimenting with LLM-based systems and agentic workflows:
-
-<p>
-  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/LLM_Workflows-8B5CF6?style=flat-square" alt="LLM Workflows" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-</p>
+Extending my data science practice into LLM-based systems: retrieval-augmented generation (RAG), agents and AI-assisted workflows, with the same production mindset.
 
 ---
 
 ## Background
 
+* 💼 Data Science Intern @ WiseDB · People Analytics
 * 🎓 B.Sc. in Mathematics
 * 📊 Technologist degree in Data Science in progress
 * 🇧🇷 Based in Brazil
-* 💼 Open to roles in Data Science, Data Analysis, Junior Data Engineering, and Python applications
+* 🚀 Open to opportunities in Data Science, Analytics and AI Engineering
 
 ---
 
